@@ -31,6 +31,9 @@ The machine learning model showed:
 
 **Conclusion**  
 Real-world evidence suggests that the risk of akathisia associated with brexpiprazole may be underestimated. The proposed model, characterized by high recall, may serve as a useful **preliminary clinical screening tool**.
+![Figure 1](visualization/Figure_1.png)
+![Figure 2](visualization/ror_comp.png)
+
 
 ---
 
